@@ -34,7 +34,7 @@
     "postcss": "8.5.32",
     "proxy-addr": "2.0.8",
     "qs": "6.17.1",
-    "send": "0.19.2",
+    "send": "1.2.1",
     "serve-static": "1.16.3"
   },
   "engines": {
