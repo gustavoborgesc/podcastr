@@ -35,7 +35,7 @@
     "proxy-addr": "2.0.8",
     "qs": "6.17.1",
     "send": "0.19.2",
-    "serve-static": "1.16.3"
+    "serve-static": "2.2.1"
   },
   "engines": {
     "node": "24.22.2"
