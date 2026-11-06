@@ -5,6 +5,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+    "postinstall": "node scripts/patch-node-ffi-types.js",
     "server": "json-server server.json -w -d 750 -p 3333",
     "start": "next start"
   },
@@ -15,7 +16,7 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@types/node": "^14.18.63",
+    "@types/node": "^26.6.6",
     "@types/react": "^18.3.31",
     "json-server": "^0.17.4",
     "sass": "^1.107.0",
@@ -38,6 +39,6 @@
     "serve-static": "1.16.3"
   },
   "engines": {
-    "node": "24.22.2"
+    "node": "26.13.0"
   }
 }
