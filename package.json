@@ -5,6 +5,7 @@
   "scripts": {
     "build": "next build",
     "dev": "next dev",
+    "postinstall": "node scripts/patch-node-ffi-types.js",
     "server": "json-server server.json -w -d 750 -p 3333",
     "start": "next start"
   },
