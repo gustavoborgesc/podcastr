@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "date-fns": "^4.4.0",
-    "next": "16.4.5",
+    "next": "16.4.6",
     "react": "19.3.1",
     "react-dom": "19.3.1"
   },
@@ -18,7 +18,7 @@
     "@types/node": "^26.6.6",
     "@types/react": "^19.3.0",
     "json-server": "^0.17.4",
-    "sass": "^1.108.1",
+    "sass": "^1.108.2",
     "typescript": "^7.0.2"
   },
   "resolutions": {
@@ -38,6 +38,6 @@
     "serve-static": "1.16.3"
   },
   "engines": {
-    "node": "26.13.0"
+    "node": "26.13.1"
   }
 }
