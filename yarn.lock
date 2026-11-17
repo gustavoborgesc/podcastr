@@ -445,9 +445,9 @@ array-flatten@1.1.1:
   integrity sha512-PCVAQswWemu6UdxsDFFX/+gVeYqKAod3D3UVm91jHwynguOwAvYPhx8nNlM++NqRcK6CxxpUafjmhIdKiHibqg==
 
 baseline-browser-mapping@^2.9.19:
-  version "2.11.35"
-  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.11.35.tgz#3ca6f40d1c594ab494d8a21b05d5316528a41563"
-  integrity sha512-GNk8KX52CHqeNKGk8+7tZnQab/2k1t/BgrUHPKNdijzpEhF1saPQZHVKb6m5loSAxB39gyrTYw34Qf9CQ3u1qQ==
+  version "2.11.38"
+  resolved "https://registry.yarnpkg.com/baseline-browser-mapping/-/baseline-browser-mapping-2.11.38.tgz#3f7be275be548fb58ebce2b15cd2d2533141e4b5"
+  integrity sha512-rMgy5YW7x28SMfXHLlVZDBqlWzYZ0x2rVR/6FWrNBF0chjigARK1H6nM0hKA1Um3kPOlkQFVtjJs00d2N1ezuw==
 
 basic-auth@~2.0.1:
   version "2.0.1"
@@ -496,9 +496,9 @@ call-bound@^1.0.2:
     get-intrinsic "^1.3.0"
 
 caniuse-lite@^1.0.30001579:
-  version "1.0.30001823"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001823.tgz#331a7cb49aa317517697e76b0b1295f2225959fe"
-  integrity sha512-TQ5s/djDjNk1axreUW+4rULH+BmdCMLiJkhaXnO5wqivG7tITkSUj4ItIdzqdZHKaXcHAV8dhH3JxOM7/7bwqw==
+  version "1.0.30001826"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001826.tgz#6c2cc43e4858e54d6f7200fa87b4de93cb39aa77"
+  integrity sha512-wTB+9tIbLro/BCXwLuNV1meHE4L9dS6dArMDwgYfNBPMYScqClHyGunhkCSDtHhe/69Xl0sHlKgBVZ+fNsYtWA==
 
 chalk@^4.1.2:
   version "4.1.2"
@@ -663,9 +663,9 @@ emoji-regex@^8.0.0:
   integrity sha512-MSjYzcWNOA0ewAHpz0MxpYFvwg6yjy1NG3xteoqz644VCo/RPgnr1/GGt+ic3iJTzQ8Eu3TdM14SawnVUmGE6A==
 
 encodeurl@~2.0.0:
-  version "2.0.1"
-  resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-2.0.1.tgz#f268548822bd87b5b4fdce83c56388c6d33c9de6"
-  integrity sha512-Ev/hIyePLZtpL98x562lvPtenrUfGr0lfaf44HFZ+hDEwso7ccV9QAZrEVLg0hxNAzygaAFxy2dYaAKKM0G06A==
+  version "2.0.3"
+  resolved "https://registry.yarnpkg.com/encodeurl/-/encodeurl-2.0.3.tgz#d3895ecc5f498ae0b8840bcf670e1fcaf519f44d"
+  integrity sha512-mIteYONiEfc4xWf2F1WXovh1c8npzS00vNeiUPdwFF+QlVJni+gNvpQltLMQhob8rew/bWWc/bGTuUr0EUGt0w==
 
 errorhandler@^1.5.1:
   version "1.5.2"
@@ -815,9 +815,9 @@ gopd@^1.2.0:
   integrity sha512-ZUKRh6/kUFoAiTAtTYPZJ3hw9wNxx+BIBOijnlG9PnrJsCcSjs1wyyD6vJpaYtgnzDrKYRSqf3OO6Rfa93xsRg==
 
 graceful-fs@^4.1.3:
-  version "4.2.11"
-  resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.11.tgz#4183e4e8bf08bb6e05bbb2f7d2e0c8f712ca40e3"
-  integrity sha512-RbJ5/jmFcNNCcDV5o9eTnBLJ/HszWV0P73bc+Ff4nS/rJj+YaS6IGyiOL0VoBYX+l1Wrl3k63h/KrH+nhJ0XvQ==
+  version "4.2.12"
+  resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.12.tgz#7f6162dee07bc600281cea1b038e5f7cf215a6c2"
+  integrity sha512-iuyGF2E4oafQfPsRrG2wtY2ILupMhvtdrhzrxB+0VcjsPpSPttpfYdjnGFGsTi5MaJFjI1jOKHPQ6UTbTj9TAw==
 
 has-flag@^4.0.0:
   version "4.0.0"
@@ -855,9 +855,9 @@ iconv-lite@~0.4.24:
     safer-buffer ">= 2.1.2 < 3"
 
 immutable@^5.1.5:
-  version "5.1.10"
-  resolved "https://registry.yarnpkg.com/immutable/-/immutable-5.1.10.tgz#0b7eb66f4abb8073449dad6ead9f98167256c007"
-  integrity sha512-Uu72qZXUtm+n98uML3Xr6pVFHl4xnmeCuAsrm0VqFlQim/Ib6NrPSJLpx6CrZ/G6DnoGaCUgtx8gY+o+ovxnCw==
+  version "5.2.1"
+  resolved "https://registry.yarnpkg.com/immutable/-/immutable-5.2.1.tgz#2edd38d9a90ef82a403623407be203363ec6be51"
+  integrity sha512-CgXNM1BhKqpMjFHTyqQSk09OWqzHNJ/U4BdeBgXoBdR2DdgBdOSv131cO1/YMgzopqnka3B/i949UaMLEKUxOA==
 
 inherits@~2.0.4:
   version "2.0.4"
@@ -1213,9 +1213,9 @@ safe-buffer@5.2.1:
   integrity sha512-YZo3K82SD7Riyi0E1EQPojLz7kpepnSQI9IyPbHHg1XXXevb5dJI7tpyN2ADxGcQbHG7vcyRHk0cbwqcQriUtg==
 
 sass@^1.108.1:
-  version "1.108.1"
-  resolved "https://registry.yarnpkg.com/sass/-/sass-1.108.1.tgz#169e456df9ad50bac4593435a207106a59b645a1"
-  integrity sha512-sIYgSvOPeD9wABwDS/ofNjHASSck+7h3jLkk7wG1NPFL3XeS6vOQjBlAFSmRV09kZr1yt/Tuayt6kKtBbLjHNQ==
+  version "1.108.2"
+  resolved "https://registry.yarnpkg.com/sass/-/sass-1.108.2.tgz#ff9c74eba53c53cf30b248fd042dda543ed909f7"
+  integrity sha512-kugK8djotnG9HQRPTOf36asKYlxg8rWWsNLYHOgWDIVOiZQqlRfKBgF4XXM6kfw146kIDMvm57B4GIkvDSyTzA==
   dependencies:
     chokidar "^5.0.0"
     immutable "^5.1.5"
